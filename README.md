@@ -1,2 +1,2 @@
-# It is a ML practice repo  
-Hello. Here is my practice place for learning several ML algorithms.
+# It is a repo for coding practice of varient subject
+Hello. Here is my practice place for coding.
